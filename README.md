@@ -80,3 +80,25 @@ Welcome to the BigData101 workshop repository! 🚀 In this workshop, we dive in
    - Open the Jupyter Notebook named `notebook.ipynb` in the `code/` directory to follow along with the practical implementation.
 
 ## Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/BigData101.git```
+2. **Navigate to the project directory:**
+    ```bash
+    cd BigData101
+    ```
+3. **Open Jupyter Notebook (optional):**
+   ```bash
+   jupyter notebook```
+   - Open the code/notebook.ipynb notebook to follow along with the practical implementation.
+4. **Run the Workshop Code:**
+    - Execute the code cells in the Jupyter Notebook to run the workshop code.
+    - Alternatively, explore the Python scripts in the code/ directory using your preferred IDE or text editor.
+5. **Explore the Presentation Slides:**
+    - Open the presentation slides in the slides/ directory to review the theoretical concepts covered in the workshop.
+6. **Experiment with Practice Data:**
+   - Find sample data used for practice in the data/ directory.
+7. **Contribute and Share:**
+   - If you find ways to improve the workshop or want to share your own experiences, we encourage you to contribute! Check the Contributions section for guidance.
+8. **Enjoy Learning and Happy Coding! 🚀**
