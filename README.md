@@ -68,16 +68,7 @@ Welcome to the BigData101 workshop repository! 🚀 In this workshop, we dive in
 ## Workshop Files
 
 1. **Presentation Slides:**
-   - Find the presentation slides in the `slides/` directory.
-
-2. **Workshop Code:**
-   - All the code used in the workshop is available in the `code/` directory.
-
-3. **Practice Data:**
-   - Sample data used for practice is provided in the `data/` directory.
-
-4. **Jupyter Notebook:**
-   - Open the Jupyter Notebook named `notebook.ipynb` in the `code/` directory to follow along with the practical implementation.
+   - Find the presentation slides here : `https://www.canva.com/design/DAF3fxals64/hRMqgt5eNis37RCzr2wdSQ/edit?utm_content=DAF3fxals64&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton`
 
 ## Getting Started
 
