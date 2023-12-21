@@ -90,7 +90,8 @@ Welcome to the BigData101 workshop repository! 🚀 In this workshop, we dive in
     ```
 3. **Open Jupyter Notebook (optional):**
    ```bash
-   jupyter notebook```
+   jupyter notebook
+   ```
    - Open the code/notebook.ipynb notebook to follow along with the practical implementation.
 4. **Run the Workshop Code:**
     - Execute the code cells in the Jupyter Notebook to run the workshop code.
