@@ -68,7 +68,8 @@ Welcome to the BigData101 workshop repository! 🚀 In this workshop, we dive in
 ## Workshop Files
 
 1. **Presentation Slides:**
-   - Find the presentation slides here : `https://www.canva.com/design/DAF3fxals64/hRMqgt5eNis37RCzr2wdSQ/edit?utm_content=DAF3fxals64&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton`
+   - Find the presentation slides here : [Link to slide](https://www.canva.com/design/DAF3fxals64/hRMqgt5eNis37RCzr2wdSQ/edit?utm_content=DAF3fxals64&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 ## Getting Started
 
