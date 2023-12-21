@@ -20,6 +20,7 @@ Welcome to the BigData101 workshop repository! 🚀 In this workshop, we dive in
 4. **ELT Process with Python and MongoDB:**
    - Detailed exploration of the ELT process.
    - Hands-on implementation using Python, Pandas, Requests, CSV, PyMongo, and Matplotlib.
+   - (*In this workshop, we opted for a straightforward and beginner-friendly approach to big data. Instead of delving into advanced tools like Hadoop and Apache, we focused on simplicity. Using Python and MongoDB, along with libraries such as Pandas and Matplotlib, participants can easily grasp fundamental concepts without unnecessary complexity. This streamlined process is designed to provide a clear introduction to big data for those who may be new to the subject.*)
 
 ## Workshop Structure
 
